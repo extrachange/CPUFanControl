@@ -1,0 +1,4 @@
+jeremycole/I2C Temperature Sensors derived from the LM75@^1.0.3
+olikraus/U8g2@^2.35.7
+khoih-prog/RP2040_PWM@^1.7.0
+br3ttb/PID@^1.2.1

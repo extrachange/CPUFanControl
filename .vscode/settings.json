@@ -1,0 +1,10 @@
+{
+    "FSharp.suggestGitignore": false,
+    "files.associations": {
+        "chrono": "cpp",
+        "mstd_iterator": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
